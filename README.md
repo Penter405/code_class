@@ -1,1 +1,1 @@
-# code_class
+# 這是一個hack md檔案的place
